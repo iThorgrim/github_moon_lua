@@ -1,4 +1,4 @@
-# GitHub Moon to Lua Action 🚀
+# GitHub Action : Moon to Lua 🚀
 
 This GitHub Action converts `.moon` files to `.lua` files and creates a pull request with the changes.
 
