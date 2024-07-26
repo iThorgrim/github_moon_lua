@@ -1,3 +1,4 @@
+# Just a little github action to convert your .moon scripts to .lua ❤️
 name: Compile MoonScript and Create PR
 
 on:
